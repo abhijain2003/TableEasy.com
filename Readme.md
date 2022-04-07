@@ -1,4 +1,4 @@
-# HangTable
+# tableEasy.com
 
 Hello World! We would like to introduce you to a new, fun, and easy way of learning. Educate your child in a fun way by playing games, where your child learn with a game spirit.
 

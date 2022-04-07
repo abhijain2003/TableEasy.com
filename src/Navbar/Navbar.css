@@ -1,0 +1,35 @@
+.navbar {
+  width: 100%;
+  height: 50px;
+  padding-top: 10px;
+}
+
+.innerNav {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.innerNav h3:hover {
+text-decoration: underline;
+}
+
+.btn {
+    color: white;
+    font-weight: 600;
+  text-decoration: none;
+  background: #ff0084; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ff0084,
+    #ffae00
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #ff0084,
+    #ffae00
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 8px;
+  border-radius: 8px;
+}

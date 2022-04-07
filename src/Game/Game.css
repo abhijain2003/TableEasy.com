@@ -1,0 +1,116 @@
+.figure-container {
+  fill: transparent;
+  stroke: black;
+  stroke-width: 4px;
+  stroke-linecap: round;
+}
+
+.boxContainer {
+  height: 100%;
+}
+
+.questionBox {
+  text-align: center;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#box {
+  width: 500px;
+  height: 200px;
+  justify-content: space-evenly;
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.form {
+  width: 400px;
+  height: 300px;
+  position: relative;
+  bottom: 100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.formBox {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reload {
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  background: #ff0084; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ff0084,
+    #ffae00
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #ff0084,
+    #ffae00
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 8px;
+  border: none;
+  width: 100px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 8px;
+  height: 30px;
+}
+
+.submitForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.submitForm h4 {
+  position: relative;
+  bottom: 200px;
+}
+
+.submitForm form button {
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  background: #6cd4ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #6cd4ff,
+    #8b80f9
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #6cd4ff,
+    #8b80f9
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.submitForm form {
+  border: 1px solid black;
+  width: 500px;
+  padding: 0 10px;
+  height: 300px;
+  color: white;
+  font-weight: 600;
+  background: #ff0084; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ff0084,
+    #ffae00
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #ff0084,
+    #ffae00
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

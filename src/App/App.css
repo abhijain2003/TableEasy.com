@@ -1,0 +1,60 @@
+.navbar h3:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  width: 100%;
+}
+
+#innerNavbar {
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+h5 {
+    letter-spacing: 2px;
+    color: black;
+    font-size: 20px;
+    background: -webkit-linear-gradient(#6CD4FF, #8B80F9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.Home {
+  width: 100%;
+}
+
+.box {
+  display: grid;
+  width: 75%;
+  margin: 25px auto;
+  border: 1px solid black;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.tab {
+  border: 1px solid black;
+  height: 100px;
+  text-align: center;
+}
+
+.tab:hover {
+  background: #6cd4ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #6cd4ff,
+    #8b80f9
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #6cd4ff,
+    #8b80f9
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

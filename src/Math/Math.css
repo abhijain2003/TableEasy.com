@@ -1,0 +1,24 @@
+#content {
+    min-height: 100vh;
+    width: 100%;
+    overflow-y: hidden;
+}
+
+.main {
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-evenly;
+    overflow-y: hidden;
+}
+
+.table {
+    position: relative;
+    bottom: 20px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: 20px;
+}

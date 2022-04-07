@@ -52,8 +52,7 @@ The biggest challange was to implement the algorithms of game in such a way that
 - Deploying web app on GitHub Pages.
 - Efficient use of GitHub actions.
 
-## 🚀 What's next for hangTable
+## 🚀 What's next for tableEasy.com
 
 - Building a mobile app
 - Adding more fun educational games
-- Adding more languages

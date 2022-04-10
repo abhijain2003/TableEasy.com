@@ -2,16 +2,16 @@
 
 Hello World! We would like to introduce you to a new, fun, and easy way of learning. Educate your child in a fun way by playing games, where your child learn with a game spirit.
 
-# Impactfulness
+## Impactfulness
 As mathematical tables are very important in solving any mathematical problem and student have solve them in less period of time during competitive exams and remembering maths table at the time of exams takes lot of time. Here's my website help student to learn tables in an easy way. Once a student learned a table from tableEasy.com will never forget the table.
 
-# Innovativeness
+## Innovativeness
 from the past decades we learn tables, actually everything with old and boring method which is rote learning. But, this website works on innovative gaming method. As student loves playing games and study says, students learn more and in easy way by playing games. this website has no old school method. you can learn tables by playing games.
 
-# Ambitiousness
+## Ambitiousness
 As a developer of tableEasy.com my ambition is to deliver the website to those students who do not get proper learnings due to lack of facilities. As in future we will be adding more features to website so, every student can learn anything by playing games.
 
-# Applicability
+## Applicability
 This website is solving very underrated problem. but, when you think it deeper you will know that learning tables is the biggest problem in school student life. This website will save their hours in exams. As this website is solving the problem of students , students will accept it rapidly.
 
 ## 💡 Inspiration
